@@ -91,6 +91,6 @@ MIT License — free to use, modify, and distribute. Attribution appreciated.
 
 ## 📎 Resources
 
-- [Ben Eater: PS/2 keyboard basics](https://eater.net/)
+- [Ben Eater:](https://eater.net/)
 - [PS/2 Keyboard Protocol](https://en.wikipedia.org/wiki/PS/2_port)
 - [Scan Code Tables](https://wiki.osdev.org/PS/2_Keyboard)
